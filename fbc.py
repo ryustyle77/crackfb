@@ -1,4 +1,4 @@
-​#​!/usr/bin/env python​
+​#​!/sdcard/Pemrograman/crack python​
 ​#​ -*- coding: UTF-8 -*-​
 
 ​import​ sys
